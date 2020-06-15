@@ -6,7 +6,7 @@ export default function firstName() {
         <div className ="d-flex justify-content-start left">
             <div className ="name">Matthew</div>
         </div>
-            <div className ="d-flex justify-content-start left">
+            <div className ="d-flex justify-content-start right">
             <div className ="name">Link</div>
         </div>
     </div>    
