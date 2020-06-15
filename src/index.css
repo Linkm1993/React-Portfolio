@@ -11,3 +11,55 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body {
+  height: 100%; /* Used to enable scrolling */
+  background: linear-gradient(#000000, #272729);
+}
+
+ul{
+  list-style: none;
+}
+
+.name, #title {
+  font-size: 230px;
+  margin-top: 0 !important;
+}
+
+.right{
+  text-align: right;
+}
+
+.left{
+  text-align: left;
+}
+
+p, .contact, .tools, .languages {
+  font-size: 25px
+}
+
+h1, .journey {
+  font-size: 120px;
+}
+
+.languages, .name, #title, .journey, .right, .left, .contact{
+  color: aliceblue;
+}
+
+.findme{
+  opacity: 0;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: aliceblue;
+  
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+li{
+  font-size: 60px;
+}
