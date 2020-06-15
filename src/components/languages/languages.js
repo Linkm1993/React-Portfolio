@@ -3,8 +3,8 @@ import React from 'react'
 export default function languages() {
     return (
         <div>
-            <div class="d-flex justify-content-start">
-                <div class="languages left">
+            <div className="d-flex justify-content-start">
+                <div className="languages left">
                     <h1>Languages</h1>
                     <ul>
                         <li>HTML 5</li>

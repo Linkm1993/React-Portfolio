@@ -3,8 +3,8 @@ import React from 'react'
 export default function contact() {
     return (
         <div>
-            <div class="d-flex justify-content-start">
-                <div class="contact">
+            <div className="d-flex justify-content-start">
+                <div className="contact">
                     <h1>Contact & Links</h1>
                     <ul>
                         <li><a href="mailto:Linkm1993@gmail.com">Email</a>

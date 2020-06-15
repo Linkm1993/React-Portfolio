@@ -3,8 +3,8 @@ import React from 'react'
 export default function tools() {
     return (
     <div>
-        <div class="d-flex justify-content-end">
-            <div class="tools right">
+        <div className="d-flex justify-content-end">
+            <div className="tools right">
                 <h1>Featured Projects</h1>
                 <ul>
                     <li><a href="https://linkm1993.github.io/BreweryLocator/?" target="_blank">Brewery Locator</a></li>
